@@ -1,9 +1,8 @@
 🏨 Hostel Management System
 
-
 ⸻
 
-🚀 Project Overview
+📌 Overview
 
 The Hostel Management System is a web-based application designed to simplify hostel operations for both students and administrators.
 
@@ -17,7 +16,7 @@ The system is developed using PHP, MySQL, HTML, CSS, and JavaScript, and runs on
 
 ⸻
 
-✨ Key Highlights
+🚀 Features
 	•	🔐 Secure Login System (Admin & Student)
 	•	🛏️ Real-Time Room Availability Checking
 	•	📊 Full Booking Management System
@@ -37,46 +36,35 @@ The Student Panel allows students to browse rooms, check availability, book host
 ⸻
 
 ⚙️ Features
-
-🏠 Dashboard
+	•	🏠 Dashboard
 	•	Entry point after login
 📄 dashboard.php
-
-🛏️ View Room Details
+	•	🛏️ View Room Details
 	•	View room types, facilities, capacity
 📄 room-details.php
-
-📅 Check Availability
+	•	📅 Check Availability
 	•	Check available rooms dynamically
 📄 check-availability.php
-
-📝 Book Hostel
+	•	📝 Book Hostel
 	•	Submit booking requests
 📄 book-hostel.php
-
-👤 Profile Management
+	•	👤 Profile Management
 	•	View & update personal details
 📄 profile.php
-
-⚙️ Account Settings
+	•	⚙️ Account Settings
 	•	Change password & preferences
 📄 acc-setting.php
-
-❓ Inquiry System
+	•	❓ Inquiry System
 	•	Send issues/messages to admin
 📄 inquire.php
-
-🚪 Logout
-
+	•	🚪 Logout
 📄 logout.php
-
-🧩 Dynamic Seat Handling
-
+	•	🧩 Dynamic Seat Handling
 📄 get-seater.php
 
 ⸻
 
-🔄 Student Workflow
+🔄 Workflow
 	1.	Login
 	2.	View dashboard
 	3.	Check room availability
@@ -97,27 +85,25 @@ The Admin Panel provides full control over the hostel system including rooms, st
 ⸻
 
 ⚙️ Features
-
-📊 Dashboard
-
+	•	📊 Dashboard
 📄 dashboard.php
 
 ⸻
 
-🛏️ Room Management
+	•	🛏️ Room Management
 	•	Add Rooms → add-rooms.php
 	•	Edit Rooms → edit-room.php
 	•	Manage Rooms → manage-rooms.php
 
 ⸻
 
-📅 Booking Management
+	•	📅 Booking Management
 	•	View & track bookings
 📄 bookings.php
 
 ⸻
 
-👨‍🎓 Student Management
+	•	👨‍🎓 Student Management
 	•	Register Students → register-student.php
 	•	Manage Students → manage-students.php
 	•	View Accounts → view-students-acc.php
@@ -126,37 +112,36 @@ The Admin Panel provides full control over the hostel system including rooms, st
 
 ⸻
 
-📨 Inquiry Management
-
+	•	📨 Inquiry Management
 📄 student-inquires.php
 
 ⸻
 
-⚙️ Availability & Seats
+	•	⚙️ Availability & Seats
 	•	Admin Availability → check-availability-admin.php
 	•	Seat Logic → get-seater.php
 
 ⸻
 
-👤 Profile & Settings
+	•	👤 Profile & Settings
 	•	Profile → profile.php
 	•	Account Settings → acc-setting.php
 
 ⸻
 
-🔐 Authentication
+	•	🔐 Authentication
 	•	Login → index.php
 	•	Logout → logout.php
 
 ⸻
 
-🧪 Utility Files
+	•	🧪 Utility Files
 	•	rwl.php
 	•	rwln.php
 
 ⸻
 
-🔄 Admin Workflow
+🔄 Workflow
 	1.	Login
 	2.	Access dashboard
 	3.	Manage rooms
@@ -170,24 +155,14 @@ The Admin Panel provides full control over the hostel system including rooms, st
 ⸻
 
 🛠️ Technologies Used
-	•	Frontend: HTML, CSS, JavaScript
-	•	Backend: PHP
-	•	Database: MySQL
-	•	Server: XAMPP (Apache + MySQL)
-
-⸻
-
-🚀 Installation & Setup
-
-📌 Requirements
-	•	XAMPP / WAMP
-	•	Web Browser
-	•	PHP 7+
+	•	HTML, CSS, JavaScript
+	•	PHP
 	•	MySQL
+	•	XAMPP (Apache + MySQL)
 
 ⸻
 
-⚙️ Steps
+▶️ How to Run
 	1.	Clone or download the project
 	2.	Move folder to:
 
@@ -213,7 +188,7 @@ http://localhost/your-project-folder/
 
 ⸻
 
-📌 Future Improvements
+📈 Future Improvements
 	•	🔒 Better security (password hashing, validation)
 	•	📱 Responsive UI design
 	•	📊 Analytics dashboard
@@ -228,6 +203,12 @@ Feel free to fork this project and improve it.
 
 ⸻
 
-📄 License
+📜 License
 
 This project is developed for educational purposes.
+
+⸻
+
+🌟 Final Note
+
+This project demonstrates a complete Hostel Management System with both student and admin functionalities, focusing on usability, structured workflow, and efficient hostel operations.
