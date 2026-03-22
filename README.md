@@ -210,19 +210,10 @@ http://localhost/your-project-folder/
 ---
 
 ## 🔑 Access Panels
-
-- Student Panel → `/`  
-- Admin Panel → `/admin/`
-
----
-
-## 📈 Future Improvements
-
-- 🔒 Better security (password hashing, validation)  
-- 📱 Responsive UI design  
-- 📊 Analytics dashboard  
-- 📧 Email notifications  
-- ☁️ Cloud deployment  
+ 
+- Admin Panel
+Username: admin@gmail.com
+Password: Password@123 
 
 ---
 
