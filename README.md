@@ -41,6 +41,7 @@ The **Student Panel** allows students to browse rooms, check availability, book 
 ### 🏠 Dashboard
 - Entry point after login  
 📄 `dashboard.php`
+![Student Dashboard](screenshots/studentdash.png)
 
 ### 🛏️ View Room Details
 - View room types, facilities, capacity  
@@ -53,6 +54,7 @@ The **Student Panel** allows students to browse rooms, check availability, book 
 ### 📝 Book Hostel
 - Submit booking requests  
 📄 `book-hostel.php`
+![Book Hostel](screenshots/studentbook.png)
 
 ### 👤 Profile Management
 - View & update personal details  
@@ -99,6 +101,7 @@ The **Admin Panel** provides full control over the hostel system including rooms
 
 ### 📊 Dashboard
 📄 `dashboard.php`
+![Admin Dashboard](screenshots/admindash.png)
 
 ---
 
@@ -106,7 +109,7 @@ The **Admin Panel** provides full control over the hostel system including rooms
 - Add Rooms → `add-rooms.php`  
 - Edit Rooms → `edit-room.php`  
 - Manage Rooms → `manage-rooms.php`  
-
+![Manage Rooms](screenshots/roommanage.png)
 ---
 
 ### 📅 Booking Management
@@ -121,7 +124,7 @@ The **Admin Panel** provides full control over the hostel system including rooms
 - View Accounts → `view-students-acc.php`  
 - Student Profiles → `students-profile.php`  
 - Dynamic Info → `get-student-info.php`
-
+![Manage Members](screenshots/membersmanage.png)
 ---
 
 ### 📨 Inquiry Management
